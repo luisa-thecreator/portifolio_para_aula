@@ -3,10 +3,6 @@
 Este é um projeto de portfólio pessoal desenvolvido para apresentar minhas habilidades, experiências e projetos para apresentar ao professor da matéria.
 O site é totalmente responsivo, moderno e conta com animações interativas para proporcionar uma ótima experiência ao usuário.
 
-## Preview
-
-![Preview do Portfólio](./imagens/foto%20de%20perfil%20do%20linkedin.jpeg)
-
 ## Funcionalidades
 
 * Design moderno e responsivo com **HTML5**, **CSS3** e **JavaScript**
