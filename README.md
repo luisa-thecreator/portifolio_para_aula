@@ -1,4 +1,4 @@
-# Meu Portfólio - Luísa Accioly
+# Meu Portfólio - Luísa Accioly - Ciência da Computação
 
 Este é um projeto de portfólio pessoal desenvolvido para apresentar minhas habilidades, experiências e projetos para apresentar ao professor da matéria.
 O site é totalmente responsivo, moderno e conta com animações interativas para proporcionar uma ótima experiência ao usuário.
