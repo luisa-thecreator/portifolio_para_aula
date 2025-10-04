@@ -55,4 +55,4 @@ O site é totalmente responsivo, moderno e conta com animações interativas par
 
 O portfólio foi desenvolvido em **Mobile First** e se adapta a diferentes dispositivos, desde celulares até desktops.
 
-🔗 Desenvolvido com ♡ por **Luísa Accioly**
+Desenvolvido com ♡ por **Luísa Accioly**
