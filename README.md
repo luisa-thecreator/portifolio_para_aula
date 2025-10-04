@@ -21,7 +21,7 @@ O site é totalmente responsivo, moderno e conta com animações interativas par
 * **Font Awesome** (ícones)
 * **Google Fonts** (Inter)
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 /
@@ -37,7 +37,7 @@ O site é totalmente responsivo, moderno e conta com animações interativas par
 * **Jogo de Undertale** → Jogo 2D inspirado em Undertale usando JS , imagens, etc
 * **Database Application** → Aplicação para gerenciamento de banco de dados
 
-## ⚡ Como Executar
+## Como Executar
 
 1. Clone este repositório:
 
